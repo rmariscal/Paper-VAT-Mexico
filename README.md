@@ -3,4 +3,4 @@
 
 ### The views expressed in the paper are those of the authors and do not necessarily represent the views of the IIF, the IMF, its Executive Board, or management.
 
-#### For questions about the data please contact Rodrigo Mariscal at rmariscal@colmex.mx.
+#### For questions about the data please contact Rodrigo Mariscal at rmariscal@colmex.mx / rmariscalparedes@gmail.com.
